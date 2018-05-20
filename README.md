@@ -1,5 +1,6 @@
 ## Learning Nuclide
 
-#flow
-#react native
-#nuclide plugins
+# flow
+# react native
+# nuclide plugins
+# deploy to iOS
